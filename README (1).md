@@ -2,16 +2,6 @@
 
 An interactive **Power BI dashboard** created to analyze PhonePe-style digital payment transaction data. The dashboard provides a clear view of transaction performance, payment status, customer demographics, service performance, and monthly trends.
 
----
-
-## 🖼️ Dashboard Preview
-
-> Add your Power BI dashboard screenshot to this repository and replace the image name below.
-
-phonepe.png.png
-
----
-
 ## 🎯 Project Objective
 
 The objective of this project is to analyze digital payment transactions and identify meaningful business insights related to:
