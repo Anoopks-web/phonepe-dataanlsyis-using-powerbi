@@ -8,7 +8,7 @@ An interactive **Power BI dashboard** created to analyze PhonePe-style digital p
 
 > Add your Power BI dashboard screenshot to this repository and replace the image name below.
 
-![PhonePe Transaction Analytics Dashboard](dashboard.png)
+phonepe.png.png
 
 ---
 
