@@ -135,19 +135,7 @@ DIVIDE(
 
 ---
 
-## 📂 Repository Structure
 
-```text
-PhonePe-Transaction-Analytics/
-│
-├── 📊 PhonePe_Transaction_Analytics.pbix
-├── 🖼️ dashboard.png
-├── 📄 README.md
-└── 📁 Dataset/
-    └── transactions.csv
-```
-
----
 
 ## 📌 Project Outcome
 
@@ -159,6 +147,3 @@ This project demonstrates the ability to transform transaction data into an **in
 
 **Power BI | DAX | Data Analysis | Data Visualization | Dashboard Design | Business Insights**
 
----
-
-⭐ **If you find this project useful, consider giving the repository a star!**
